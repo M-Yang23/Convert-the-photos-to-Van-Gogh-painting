@@ -5,3 +5,7 @@
 "VGG19_model.py" is for Neural Style Transfer model
 
 In "data", training Van Gogh's works are in "trainA", and training landscape paintings are in "trainB". These pictures are used for training cycleGAN.
+Dataset "testA" includes the Van Gogh's paintings used for testing and the results of turning them into landscapes.
+Dataset "testB" includes the landscapes and the results of turning them into Van Gogh's style paintings.
+
+"Neural Networks(2).pptx" is the slide for presentation.
