@@ -8,4 +8,4 @@ In "data", training Van Gogh's works are in "trainA", and training landscape pai
 Dataset "testA" includes the Van Gogh's paintings used for testing and the results of turning them into landscapes.
 Dataset "testB" includes the landscapes and the results of turning them into Van Gogh's style paintings.
 
-"Neural Networks(2).pptx" is the slide for presentation.
+"Neural Networks(1)(1).pptx" is the slide for presentation.
